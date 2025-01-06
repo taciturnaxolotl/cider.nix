@@ -53,7 +53,6 @@
                     description = "The perfect client for Apple Music users";
                     sourceProvenance = with sourceTypes; [ binaryNativeCode ];
                     homepage = "https://cider.sh/";
-                    license = licenses.unfree;
                     platforms = platforms.linux;
                     mainProgram = "cider";
                     maintainers = [ maintainers.Fuwn ];
